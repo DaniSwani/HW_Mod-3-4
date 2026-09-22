@@ -1,0 +1,4 @@
+exam1 = float(input("enter the first exam score: "))
+exam2 = float(input("enter the second exam score: "))
+total_score = (exam1 * 0.60) + (exam2 * 0.40)
+print("total score:", total_score)
